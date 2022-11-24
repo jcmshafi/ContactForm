@@ -19,7 +19,9 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            background-color:azure;
+            background-color: black;
+
+
         }
         table, th, td{
             border: 2px solid black;
@@ -27,10 +29,10 @@
             padding: 1rem;
         }
         tr:nth-child(even){
-            background-color:#c7eef5;
+            background-color:#992804;
         }
         tr:nth-child(odd){
-            background-color:aquamarine;
+            background-color:white;
         }
     </style>
 </head>
